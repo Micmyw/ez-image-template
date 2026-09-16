@@ -1,5 +1,7 @@
 # AI media SaaS foundation
 
+Project website: [EzPic - AI Image Editor](https://ezimageai.com/).
+
 A reusable Supastarter-based subscription foundation for private AI image and video generation. Supastarter remains the product base; only reviewed request/status mapping and upload UX patterns were adapted from ShipAny. It is production-oriented, but a checkout is not live-certified until its own cloud accounts, credentials, quotas, Webhooks, alerts, and staging load have been verified.
 
 ## Foundation capabilities
