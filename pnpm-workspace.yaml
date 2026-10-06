@@ -33,94 +33,94 @@ allowBuilds:
   sharp: true
 
 catalog:
-  "@trigger.dev/sdk": 4.5.10
-  trigger.dev: 4.5.10
+  "@trigger.dev/sdk": 4.7.2
+  trigger.dev: 4.7.2
   "@ai-sdk/anthropic": ^4.0.21
-  "@ai-sdk/openai": ^4.0.27
-  "@ai-sdk/react": ^4.0.51
-  "@aws-sdk/client-s3": 3.1108.0
-  "@aws-sdk/s3-request-presigner": 3.1108.0
-  "@base-ui/react": ^1.6.0
-  oxlint: ^1.76.0
-  oxfmt: ^0.61.0
-  "@hookform/resolvers": ^5.7.1
+  "@ai-sdk/openai": ^4.0.83
+  "@ai-sdk/react": ^4.0.130
+  "@aws-sdk/client-s3": 3.1146.0
+  "@aws-sdk/s3-request-presigner": 3.1146.0
+  "@base-ui/react": ^1.8.0
+  oxlint: ^1.86.0
+  oxfmt: ^0.71.0
+  "@hookform/resolvers": ^5.9.1
   "@mdx-js/mdx": ^3.1.1
-  "@next/third-parties": 16.2.12
-  "@orpc/client": 1.14.13
-  "@orpc/json-schema": 1.14.13
-  "@orpc/openapi": 1.14.13
-  "@orpc/server": 1.14.13
-  "@orpc/tanstack-query": 1.14.13
-  "@orpc/zod": 1.14.13
-  "@playwright/test": ^1.62.1
-  "@prisma/adapter-pg": ^7.9.1
-  "@prisma/client": 7.9.1
-  "@prisma/nextjs-monorepo-workaround-plugin": ^7.9.1
-  "@shikijs/rehype": ^4.4.1
-  "@sindresorhus/slugify": ^3.0.0
+  "@next/third-parties": 16.3.8
+  "@orpc/client": 1.15.4
+  "@orpc/json-schema": 1.15.4
+  "@orpc/openapi": 1.15.4
+  "@orpc/server": 1.15.4
+  "@orpc/tanstack-query": 1.15.4
+  "@orpc/zod": 1.15.4
+  "@playwright/test": ^1.63.0
+  "@prisma/adapter-pg": ^7.10.0
+  "@prisma/client": 7.10.0
+  "@prisma/nextjs-monorepo-workaround-plugin": ^7.10.0
+  "@shikijs/rehype": ^4.5.0
+  "@sindresorhus/slugify": ^3.0.1
   "@tailwindcss/postcss": ^4.3.3
   "@types/js-cookie": ^3.0.6
   "@types/mdx": ^2.0.14
-  "@types/node": 26.1.2
-  "@types/nodemailer": ^8.0.1
+  "@types/node": 26.6.4
+  "@types/nodemailer": ^8.0.2
   "@types/nprogress": ^0.2.3
-  "@types/react": 19.2.18
-  "@types/react-dom": 19.2.4
+  "@types/react": 19.3.0
+  "@types/react-dom": 19.3.0
   "@types/uuid": ^11.0.0
-  "@vitest/coverage-v8": ^4.1.10
-  ai: ^7.0.48
-  autoprefixer: 10.5.2
-  better-auth: 1.6.27
+  "@vitest/coverage-v8": ^5.0.3
+  ai: ^7.0.127
+  autoprefixer: 10.6.1
+  better-auth: 1.7.7
   boring-avatars: ^2.0.4
   class-variance-authority: ^0.7.1
   clsx: ^2.1.1
   cookie: ^2.0.1
   cropperjs: 2.1.1
   date-fns: ^4.4.0
-  dotenv: ^17.4.2
+  dotenv: ^18.0.5
   dotenv-cli: ^11.0.0
-  drizzle-kit: ^0.31.10
-  drizzle-orm: ^0.45.2
+  drizzle-kit: ^0.31.11
+  drizzle-orm: ^0.45.3
   drizzle-zod: 0.8.3
-  es-toolkit: ^1.50.0
-  hono: ^4.13.1
-  input-otp: ^1.4.2
+  es-toolkit: ^1.52.0
+  hono: ^4.13.12
+  input-otp: ^1.5.0
   js-cookie: ^3.0.8
-  lucide-react: ^1.28.0
+  lucide-react: ^1.51.0
   mdx: ^0.3.1
   mdx-bundler: ^10.1.1
-  nanoid: ^6.0.0
-  next: ^16.2.12
-  next-intl: 4.13.4
+  nanoid: ^6.0.1
+  next: ^16.3.8
+  next-intl: 4.14.9
   next-themes: ^0.4.6
   nprogress: ^0.2.0
-  nuqs: ^2.9.4
-  openai: ^6.49.0
+  nuqs: ^2.10.1
+  openai: ^7.27.0
   oslo: ^1.2.1
-  pg: ^8.22.0
-  postcss: 8.5.26
+  pg: ^8.23.1
+  postcss: 8.5.28
   prettier: 3.9.3
-  prisma: 7.9.1
-  prisma-zod-generator: 3.1.0
-  react: 19.2.8
-  react-dom: 19.2.8
-  react-dropzone: ^20.0.0
-  react-hook-form: ^7.84.0
+  prisma: 7.10.0
+  prisma-zod-generator: 3.3.1
+  react: 19.3.0
+  react-dom: 19.3.0
+  react-dropzone: ^20.1.2
+  react-hook-form: ^7.89.0
   react-qr-code: ^2.2.0
   recharts: ^3.10.1
   server-only: ^0.0.1
-  sharp: ^0.35.3
+  sharp: ^0.35.5
   slugify: ^1.6.9
-  sonner: ^2.0.7
+  sonner: ^2.0.8
   start-server-and-test: ^3.0.12
-  streamdown: ^2.5.0
-  tailwind-merge: ^3.6.0
+  streamdown: ^2.7.0
+  tailwind-merge: ^3.7.0
   tailwindcss: 4.3.3
-  tsx: ^4.23.5
-  typescript: 6.0.3
+  tsx: ^4.23.15
+  typescript: 7.0.2
   ufo: ^1.6.4
-  use-intl: ^4.13.4
+  use-intl: ^4.14.9
   usehooks-ts: ^3.1.1
-  uuid: ^14.0.1
-  vitest: ^4.1.10
-  zod: ^4.4.3
+  uuid: ^14.0.2
+  vitest: ^5.0.3
+  zod: ^4.6.5
