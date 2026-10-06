@@ -19,12 +19,12 @@
 	},
 	"dependencies": {
 		"@lemonsqueezy/lemonsqueezy.js": "^4.0.0",
-		"@polar-sh/sdk": "^0.49.0",
+		"@polar-sh/sdk": "^1.0.2",
 		"@repo/config": "workspace:*",
 		"@repo/database": "workspace:*",
 		"@repo/logs": "workspace:*",
-		"dodopayments": "^2.44.0",
-		"stripe": "^22.4.0",
+		"dodopayments": "^2.52.0",
+		"stripe": "^23.0.0",
 		"ufo": "catalog:",
 		"zod": "catalog:"
 	},
